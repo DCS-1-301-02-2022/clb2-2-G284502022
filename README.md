@@ -2,6 +2,7 @@
 <!-- Markdown記法を使って学科の紹介ページを作る -->
 
 ##　情報工学科とは
+
 ######　↓八王子キャンパス
 
 ![Takushoku University](hachioji.jpg "八王子国際キャンパス")
