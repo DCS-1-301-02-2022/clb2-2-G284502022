@@ -43,7 +43,20 @@
 [拓殖大学](http://www.takushoku-u.ac.jp "Takushoku University")
 
 ```c
-printf("HelloWorld");
+#include<stdio.h>
+
+main(void){
+    int tanni = 0;
+    printf("HelloWorld");
+    for(i=0;i<=48;i++){
+        printf("単位取得");
+        tanni++;
+    }
+    if(tanni == 48){
+        printf("フル単");
+    }
+    return 0;
+}
 ```
 <!-- この部分より上に記述を追加して下のチェックボックスで確認する -->
 - [x] 2種類以上の見出し(headers)を使っている．
