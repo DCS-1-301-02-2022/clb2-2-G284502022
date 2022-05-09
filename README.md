@@ -48,11 +48,11 @@
 main(void){
     int tanni = 0;
     printf("HelloWorld");
-    for(i=0;i<=48;i++){
+    for(i=0;i<=47;i++){
         printf("単位取得");
         tanni++;
     }
-    if(tanni == 48){
+    if(tanni == 47){
         printf("フル単");
     }
     return 0;
